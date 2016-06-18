@@ -8,6 +8,9 @@
 *.out
 *.toc
 
+## Generated PDF
+*.pdf
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
